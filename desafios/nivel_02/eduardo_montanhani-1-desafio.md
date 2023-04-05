@@ -7,3 +7,8 @@
 * Na linha 7 no arquivo index faltava um ";"
 
 * Tinha linha que fazia referencia a $login que não existia no codigo
+
+
+
+
+ 
